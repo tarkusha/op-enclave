@@ -28,7 +28,7 @@
         "chainId": "0x14a34"
       },
       "additionalContracts": [],
-      "isFixedGasLimit": false
+      "isFixedGasLimit": true
     }
   ],
   "receipts": [
